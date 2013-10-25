@@ -16,6 +16,7 @@
         android:textSize="40sp" />
     
     <TextView
+        android:id="@+id/current_uvi"
         android:layout_width="210dp"
         android:layout_height="210dp"
         android:layout_gravity="center"
